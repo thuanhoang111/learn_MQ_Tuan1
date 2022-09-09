@@ -736,3 +736,5 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.activat
 2022-09-09 13:10:53,609 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Student\Desktop\learn_MQ_Tuan1\Receiver\src\test\resources
 2022-09-09 13:12:29,696 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-09-09 13:12:29,697 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Student\Desktop\learn_MQ_Tuan1\Receiver\src\main\resources
+2022-09-09 13:12:29,698 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-09 13:12:29,699 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Student\Desktop\learn_MQ_Tuan1\Receiver\src\test\resources
