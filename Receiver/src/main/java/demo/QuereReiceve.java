@@ -20,9 +20,7 @@ public class QuereReiceve {
 		BasicConfigurator.configure();
 //thiết lập môi trường cho JJNDI
 		Properties settings = new Properties();
-		settings.setProperty(Context.INITIAL_CONTEXT_FACTORY,
-
-				"org.apache.activemq.jndi.ActiveMQInitialContextFactory");
+		settings.setProperty(Context.INITIAL_CONTEXT_FACTORY, "org.apache.activemq.jndi.ActiveMQInitialContextFactory");
 		settings.setProperty(Context.PROVIDER_URL, "tcp://localhost:61616");
 //tạo context
 		Context ctx = new InitialContext(settings);
